@@ -1,6 +1,4 @@
 const mongoose = require("mongoose");
-const { loadEnvFile } = require("node:process");
-loadEnvFile();
 mongoose.connect(process.env.connection, {
   useNewUrlParser: true,
 });
