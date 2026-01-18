@@ -1,0 +1,30 @@
+start pairing
+start pair 1
+pair 1 is success
+start pair 2
+pair 2 is success
+start pair 3
+pair 3 is success
+start pair 4
+pair 4 is success
+start pair 5
+pair 5 is success
+start pair 6
+pair 6 is success
+start pair 7
+pair 7 is success
+start pair 8
+pair 8 is success
+start pair 9
+pair 9 is success
+start pair 10
+pair 10 is success
+start pair 11
+pair 11 is success
+start pair 12
+pair 12 is success
+start pair 13
+pair 13 is success
+start pair 14
+pair 14 is success
+start pair 15

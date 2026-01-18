@@ -1,0 +1,189 @@
+Tue Feb 13 2024 15:47:55 GMT+0700 (Indochina Time)
+start pairing
+start pair 1
+pair 1 is success
+start pair 2
+pair 2 is success
+start pair 3
+pair 3 is success
+start pair 4
+pair 4 is success
+start pair 5
+pair 5 is success
+start pair 6
+pair 6 is success
+start pair 7
+pair 7 is success
+start pair 8
+pair 8 is success
+start pair 9
+pair 9 is success
+start pair 10
+pair 10 is success
+start pair 11
+pair 11 is success
+start pair 12
+pair 12 is success
+start pair 13
+pair 13 is success
+start pair 14
+pair 14 is success
+start pair 15
+pair 15 is success
+start pair 16
+pair 16 is success
+start pair 17
+pair 17 has 25 routes. now current route 0 
+pair 17 is success
+start pair 18
+pair 18 has 17 routes. now current route 0 
+pair 18 has 17 routes. now current route 1 
+pair 18 has 17 routes. now current route 2 
+pair 18 has 17 routes. now current route 3 
+pair 18 has 17 routes. now current route 4 
+pair 18 has 17 routes. now current route 5 
+pair 18 has 17 routes. now current route 6 
+pair 18 has 17 routes. now current route 7 
+pair 18 has 17 routes. now current route 8 
+pair 18 has 17 routes. now current route 9 
+pair 18 has 17 routes. now current route 10 
+pair 18 has 17 routes. now current route 11 
+pair 18 has 17 routes. now current route 12 
+pair 18 has 17 routes. now current route 13 
+pair 18 has 17 routes. now current route 14 
+pair 18 has 17 routes. now current route 15 
+pair 18 has 17 routes. now current route 16 
+pair 18 has 17 routes. now current route 17 
+old ! pair 17 and index value = [0,0,2,1,0,0,0,0,0]
+new ! pair 17 and index value = [0,0,2,1,0,0,0,0,1]
+pair source =>
+17
+i think should have
+20
+back pair form 18 to 17 
+pair 17 is error restart 15 again
+start pair 17
+pair 17 has 25 routes. now current route 0 
+pair 17 is success
+start pair 18
+pair 18 has 17 routes. now current route 0 
+pair 18 has 17 routes. now current route 1 
+pair 18 has 17 routes. now current route 2 
+pair 18 has 17 routes. now current route 3 
+pair 18 has 17 routes. now current route 4 
+pair 18 has 17 routes. now current route 5 
+pair 18 has 17 routes. now current route 6 
+pair 18 has 17 routes. now current route 7 
+pair 18 has 17 routes. now current route 8 
+pair 18 has 17 routes. now current route 9 
+pair 18 has 17 routes. now current route 10 
+pair 18 has 17 routes. now current route 11 
+pair 18 has 17 routes. now current route 12 
+pair 18 has 17 routes. now current route 13 
+pair 18 has 17 routes. now current route 14 
+pair 18 has 17 routes. now current route 15 
+pair 18 has 17 routes. now current route 16 
+pair 18 has 17 routes. now current route 17 
+old ! pair 17 and index value = [0,0,2,1,0,0,0,1,0]
+new ! pair 17 and index value = [0,0,2,1,0,0,0,1,1]
+pair source =>
+17
+i think should have
+20
+back pair form 18 to 17 
+pair 17 is error restart 15 again
+start pair 17
+pair 17 has 25 routes. now current route 0 
+pair 17 is success
+start pair 18
+pair 18 has 17 routes. now current route 0 
+pair 18 has 17 routes. now current route 1 
+pair 18 has 17 routes. now current route 2 
+pair 18 has 17 routes. now current route 3 
+pair 18 has 17 routes. now current route 4 
+pair 18 has 17 routes. now current route 5 
+pair 18 has 17 routes. now current route 6 
+pair 18 has 17 routes. now current route 7 
+pair 18 has 17 routes. now current route 8 
+pair 18 has 17 routes. now current route 9 
+pair 18 has 17 routes. now current route 10 
+pair 18 has 17 routes. now current route 11 
+pair 18 has 17 routes. now current route 12 
+pair 18 has 17 routes. now current route 13 
+pair 18 has 17 routes. now current route 14 
+pair 18 has 17 routes. now current route 15 
+pair 18 has 17 routes. now current route 16 
+pair 18 has 17 routes. now current route 17 
+old ! pair 17 and index value = [0,0,2,1,0,0,1,0,0]
+new ! pair 17 and index value = [0,0,2,1,0,0,1,0,1]
+pair source =>
+17
+i think should have
+20
+back pair form 18 to 17 
+pair 17 is error restart 15 again
+start pair 17
+pair 17 has 25 routes. now current route 0 
+pair 17 is success
+start pair 18
+pair 18 has 17 routes. now current route 0 
+pair 18 has 17 routes. now current route 1 
+pair 18 has 17 routes. now current route 2 
+pair 18 has 17 routes. now current route 3 
+pair 18 has 17 routes. now current route 4 
+pair 18 has 17 routes. now current route 5 
+pair 18 has 17 routes. now current route 6 
+pair 18 has 17 routes. now current route 7 
+pair 18 has 17 routes. now current route 8 
+pair 18 has 17 routes. now current route 9 
+pair 18 has 17 routes. now current route 10 
+pair 18 has 17 routes. now current route 11 
+pair 18 has 17 routes. now current route 12 
+pair 18 has 17 routes. now current route 13 
+pair 18 has 17 routes. now current route 14 
+pair 18 has 17 routes. now current route 15 
+pair 18 has 17 routes. now current route 16 
+pair 18 has 17 routes. now current route 17 
+old ! pair 17 and index value = [0,0,2,1,0,0,1,1,0]
+new ! pair 17 and index value = [0,0,2,1,0,0,1,1,1]
+pair source =>
+17
+i think should have
+20
+back pair form 18 to 17 
+pair 17 is error restart 15 again
+start pair 17
+pair 17 has 25 routes. now current route 0 
+pair 17 is success
+start pair 18
+pair 18 has 17 routes. now current route 0 
+pair 18 has 17 routes. now current route 1 
+pair 18 has 17 routes. now current route 2 
+pair 18 has 17 routes. now current route 3 
+pair 18 has 17 routes. now current route 4 
+pair 18 has 17 routes. now current route 5 
+pair 18 has 17 routes. now current route 6 
+pair 18 has 17 routes. now current route 7 
+pair 18 has 17 routes. now current route 8 
+pair 18 has 17 routes. now current route 9 
+pair 18 has 17 routes. now current route 10 
+pair 18 has 17 routes. now current route 11 
+pair 18 has 17 routes. now current route 12 
+pair 18 has 17 routes. now current route 13 
+pair 18 has 17 routes. now current route 14 
+pair 18 has 17 routes. now current route 15 
+pair 18 has 17 routes. now current route 16 
+pair 18 has 17 routes. now current route 17 
+old ! pair 17 and index value = [0,0,2,1,0,0,3,0,0]
+new ! pair 17 and index value = [0,0,2,1,0,0,3,0,1]
+pair source =>
+17
+i think should have
+20
+back pair form 18 to 17 
+pair 17 is error restart 15 again
+start pair 17
+pair 17 has 25 routes. now current route 0 
+pair 17 is success
+start pair 18
+pair 18 has 17 routes. now current route 0 
